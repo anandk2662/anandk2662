@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](https://komarev.com/ghpvc/?username=anandk2662)
+![](https://komarev.com/ghpvc/?username=anandk2662&abbreviated=true&color=blue)
 <!--
 **anandk2662/anandk2662** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
