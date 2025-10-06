@@ -1,8 +1,5 @@
-## Hi there 👋
-![](https://komarev.com/ghpvc/?username=anandk2662&abbreviated=true&color=blue)
-# 💫 About Me:
 # 👋 Hey there, I'm Anand!  <br><br>🚀 *Aspiring AI Engineer | Full Stack Developer*  <br><br>
-
+![](https://komarev.com/ghpvc/?username=anandk2662&abbreviated=true&color=blue) [![wakatime](https://wakatime.com/badge/user/b7a5d8b2-1e7e-4411-a727-6d67f65af9a7.svg)](https://wakatime.com/@b7a5d8b2-1e7e-4411-a727-6d67f65af9a7)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anandkumar2029/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/anandk2534) 
